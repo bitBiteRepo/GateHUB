@@ -1,0 +1,6 @@
+module Pods_GateHUB {
+  umbrella header "Pods-GateHUB-umbrella.h"
+
+  export *
+  module * { export * }
+}
